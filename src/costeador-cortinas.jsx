@@ -7,7 +7,7 @@ import { Plus, Trash2, ChevronDown, ChevronUp, Ruler, X, Calculator, ScrollText,
    Fórmula única: Costo = (Precio ÷ Presentación) × Valor(Tipo_Cálculo) × Cantidad_Base
    ============================================================================ */
 
-const API_URL = "https://script.google.com/macros/s/AKfycbzEoPKhN6shaUSaAbaTD0U4d74Izg1FB9tmXepMrLYP7z7a0ZIlJ93gg0cQ4asvI3Hi/exec";
+const API_URL = "/api/catalogos";
 
 // Respaldo (muestra) por si el entorno bloquea la conexión en vivo (ej. este chat).
 // En Vercel/Netlify la conexión real funcionará y estos datos no se usan.
