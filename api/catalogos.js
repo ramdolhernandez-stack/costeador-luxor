@@ -4,7 +4,7 @@
 // Server-to-server no tiene restricción CORS, por eso funciona.
 
 const APPS_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbzEoPKhN6shaUSaAbaTD0U4d74Izg1FB9tmXepMrLYP7z7a0ZIlJ93gg0cQ4asvI3Hi/exec";
+  "https://script.google.com/macros/s/AKfycbzEoPKhN6shaUSaAbaTD0U4d74Izg1FB9tmXepMrLYP7z7a0ZIIJ93gg0cQ4asvI3Hi/exec";
 
 export default async function handler(req, res) {
   try {
